@@ -66,7 +66,7 @@ class App extends Component {
     return (
     <div className='notesWrapper'>
       <div className='notesHeader'>  
-            <div className='heading'>First WebApp To-do list</div>
+            <div className='heading'>Simple To-do list</div>
       </div>
     <div className='notesBody'>
           {
@@ -79,6 +79,7 @@ class App extends Component {
     </div>
     <div className='notesFooter'>
    <NoteForm addNote={this.addNote} />
+   <br />
     </div>
     </div>
     );
