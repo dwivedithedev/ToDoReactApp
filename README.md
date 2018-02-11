@@ -6,4 +6,4 @@ WARNING: since the firebase db is not authorized, whatever entered in notes will
 
 The intentions was to clear the concepts of react, git, firebase, npm run deploy, npm run build etc.
 
-P.S. Credits to youtube channel "wes boyle" for amazing tutorial.
+P.S. Credits to youtube channel "wes doyle" for amazing tutorial.
